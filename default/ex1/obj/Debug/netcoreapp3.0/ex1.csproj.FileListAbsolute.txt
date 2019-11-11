@@ -1,0 +1,11 @@
+F:\Folder\git\C-xiti12138\default\ex1\obj\Debug\netcoreapp3.0\ex1.csprojAssemblyReference.cache
+F:\Folder\git\C-xiti12138\default\ex1\obj\Debug\netcoreapp3.0\ex1.AssemblyInfoInputs.cache
+F:\Folder\git\C-xiti12138\default\ex1\obj\Debug\netcoreapp3.0\ex1.AssemblyInfo.cs
+F:\Folder\git\C-xiti12138\default\ex1\obj\Debug\netcoreapp3.0\ex1.dll
+F:\Folder\git\C-xiti12138\default\ex1\obj\Debug\netcoreapp3.0\ex1.pdb
+F:\Folder\git\C-xiti12138\default\ex1\bin\Debug\netcoreapp3.0\ex1.exe
+F:\Folder\git\C-xiti12138\default\ex1\bin\Debug\netcoreapp3.0\ex1.deps.json
+F:\Folder\git\C-xiti12138\default\ex1\bin\Debug\netcoreapp3.0\ex1.runtimeconfig.json
+F:\Folder\git\C-xiti12138\default\ex1\bin\Debug\netcoreapp3.0\ex1.runtimeconfig.dev.json
+F:\Folder\git\C-xiti12138\default\ex1\bin\Debug\netcoreapp3.0\ex1.dll
+F:\Folder\git\C-xiti12138\default\ex1\bin\Debug\netcoreapp3.0\ex1.pdb
